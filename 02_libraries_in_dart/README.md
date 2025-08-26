@@ -181,3 +181,7 @@ void main() {
   print("Sum is : $sum , Product is: $product, Quotient is : $quotient");
 }
 ```
+
+## Install packages
+
+- Use `dart pub get` command to install packages from `pubspec.lock` file
